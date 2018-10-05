@@ -23,6 +23,8 @@ Build an intuition about how support vector machine (SVMs) work and implement on
 
 [SVC- Linear](https://github.com/cliferraren/udacity_ML/blob/master/SVM/SVC_Linear.ipynb)
 
+[SVC- RBF](https://github.com/cliferraren/udacity_ML/blob/master/SVM/SVC_RBF.ipynb)
+
 [Overfitting](https://github.com/cliferraren/udacity_ML/blob/master/SVM/SVM_Overfitting.ipynb)
 
 [Mini-Project](https://github.com/cliferraren/udacity_ML/tree/master/projects/svm)
