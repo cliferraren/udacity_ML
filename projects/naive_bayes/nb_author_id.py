@@ -45,5 +45,4 @@ pred=clf.predict(features_test)
 print ("Prediction time: ",round(time()-t1,3),"s")
 print (accuracy_score(labels_test,pred))
 
-
 #########################################################
