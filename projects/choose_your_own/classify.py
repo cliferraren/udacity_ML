@@ -14,6 +14,9 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     pred = clf.predict(features_test) #TODO
 
 
+    prettyPicture(clf, features_test, labels_test)
+    plt.show()
+
     ### calculate and return the accuracy on the test data
     ### this is slightly different than the example,
     ### where we just print the accuracy
