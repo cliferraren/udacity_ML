@@ -37,3 +37,6 @@ Learn about how the decision tree algorithm works, including the concepts of ent
 [Intro - Decision Trees](https://github.com/cliferraren/udacity_ML/blob/master/Decision%20Trees/Decision_Trees_min_samples_split.ipynb)
 
 [Mini-Project](https://github.com/cliferraren/udacity_ML/blob/master/projects/decision_tree/MiniProject_EmailAuthor_classifier.ipynb)
+
+
+# Adaptive Boosting
