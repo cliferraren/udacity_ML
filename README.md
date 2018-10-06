@@ -32,4 +32,8 @@ Build an intuition about how support vector machine (SVMs) work and implement on
 
 # Decision Trees
 
+Learn about how the decision tree algorithm works, including the concepts of entropy and information gain.
 
+[Intro - Decision Trees](https://github.com/cliferraren/udacity_ML/blob/master/Decision%20Trees/Decision_Trees_min_samples_split.ipynb)
+
+[Mini-Project](https://github.com/cliferraren/udacity_ML/blob/master/projects/decision_tree/MiniProject_EmailAuthor_classifier.ipynb)
