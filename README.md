@@ -4,7 +4,7 @@ These are the collection of codes use to complete and answer the quizzes and min
 
 -----------------------------------------------------------------
 
-[![Build Status](https://github.com/cliferraren/udacity_ML)
+(https://github.com/cliferraren/udacity_ML)
 
 # Naive Bayes
 
